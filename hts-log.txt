@@ -1,0 +1,14 @@
+HTTrack3.48-19+htsswf+htsjava launched on Sat, 23 Aug 2014 06:19:09 at http://thcslieutu1.edu.vn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://thcslieutu1.edu.vn -O1 "C:\lieutu1\saoluu2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:30:24	Warning: 	Link thcslieutu1.edu.vn/wp-login.php not scanned (follow robots meta tag)
+06:35:19	Error: 	"Not Found" (404) at link thcslieutu1.edu.vn/AppleWebKit/ (from thcslieutu1.edu.vn/wp-content/themes/VN-News/scripts/prototype.js)
+06:57:13	Error: 	"Not Found" (404) at link thcslieutu1.edu.vn/wp-content/uploads/2013/09/bien-chê-mang-luoi1.xls (from thcslieutu1.edu.vn/?p=810)
+
+HTTrack Website Copier/3.48-19 mirror complete in 38 minutes 4 seconds : 821 links scanned, 818 files written (57493137 bytes overall) [57717845 bytes received at 25270 bytes/sec]
+(2 errors, 1 warnings, 0 messages)

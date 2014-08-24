@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thcslieutu1.edu.vn	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.histats.com	TRUE	/	FALSE	1999999999	CountUid	6dc27e13-3cmk-48b8-95cf-9d2c83fa01e5
+
